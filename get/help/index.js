@@ -1,3 +1,5 @@
+// GET /help
+
 module.exports = {
   content: {
     categoryList: [
