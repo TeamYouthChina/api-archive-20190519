@@ -1,1 +1,1 @@
-0 * * * * bash -c 'source ~/.bashrc && cd ~/frontend-mock && ./update.sh' >~/frontend-mock/update.txt 2>&1
+0 * * * * bash -c 'cd ~/frontend-mock && ./update.sh' >~/frontend-mock/update.txt 2>&1
