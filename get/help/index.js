@@ -72,6 +72,6 @@ module.exports = {
     ]
   },
   status: {
-    code: 200
+    code: 2000
   }
 };
