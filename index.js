@@ -14,6 +14,7 @@ const getList = [
   '/answer/0120',
   '/answer/0210',
   '/answer/0220',
+  '/people'
 ];
 
 getList.forEach((value) => {
