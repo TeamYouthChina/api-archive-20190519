@@ -8,13 +8,7 @@ app.use(cors());
 
 const getList = [
   '/help',
-  '/question/0100',
-  '/question/0200',
-  '/answer/0110',
-  '/answer/0120',
-  '/answer/0210',
-  '/answer/0220',
-  '/people'
+  '/questions/1'
 ];
 
 getList.forEach((value) => {
