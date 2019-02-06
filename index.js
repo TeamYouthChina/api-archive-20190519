@@ -7,6 +7,12 @@ app.use(cors());
 // get
 
 const getList = [
+  '/answer/0110',
+  '/answer/0120',
+  '/answer/0210',
+  '/answer/0210',
+  '/question/0100',
+  '/question/0200',
   '/help',
   '/questions/1'
 ];
