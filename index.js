@@ -14,7 +14,20 @@ const getList = [
   '/question/0100',
   '/question/0200',
   '/help',
-  '/questions/1'
+  '/answers/1',
+  '/job/1',
+  '/applicants/1',
+  '/applicants/1/contacts',
+  '/applicants/1/educations',
+  '/applicants/1/projects',
+  '/applicants/1/experiences',
+  '/applicants/1/certificates',
+  '/applicants/1/extracurriculars',
+  '/applicants/1/applications',
+  '/users/1/collections',
+  '/questions/1',
+  '/questions/1/answers'
+  
 ];
 
 getList.forEach((value) => {

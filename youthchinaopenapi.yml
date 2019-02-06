@@ -150,7 +150,7 @@ paths:
             type: integer
       responses:
         '200':
-          description: return target user's contacts
+          description: return target user's 1
           content:
             application/json:
               schema:
