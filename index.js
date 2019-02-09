@@ -11,23 +11,23 @@ const getList = [
   '/answer/0120',
   '/answer/0210',
   '/answer/0210',
-  '/question/0100',
-  '/question/0200',
-  '/help',
   '/answers/1',
-  '/job/1',
   '/applicants/1',
+  '/applicants/1/applications',
+  '/applicants/1/certificates',
   '/applicants/1/contacts',
   '/applicants/1/educations',
-  '/applicants/1/projects',
   '/applicants/1/experiences',
-  '/applicants/1/certificates',
   '/applicants/1/extracurriculars',
-  '/applicants/1/applications',
-  '/users/1/collections',
+  '/applicants/1/projects',
+  '/comments/1',
+  '/help',
+  '/job/1',
+  '/question/0100',
+  '/question/0200',
   '/questions/1',
-  '/questions/1/answers'
-  
+  '/questions/1/answers',
+  '/users/1/collections'
 ];
 
 getList.forEach((value) => {
