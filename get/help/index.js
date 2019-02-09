@@ -1138,7 +1138,22 @@ module.exports = {
               richText: {
                 blocks: [
                   {
-                    key: '6pdrs',
+                    key: '9ofs',
+                    text: 'Google Image',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [
+                      {
+                        offset: 0,
+                        length: 12,
+                        style: 'BOLD'
+                      }
+                    ],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '3t7t2',
                     text: '',
                     type: 'unstyled',
                     depth: 0,
@@ -1147,7 +1162,7 @@ module.exports = {
                     data: {}
                   },
                   {
-                    key: 'aboi9',
+                    key: '44l06',
                     text: ' ',
                     type: 'atomic',
                     depth: 0,
@@ -1162,8 +1177,178 @@ module.exports = {
                     data: {}
                   },
                   {
-                    key: '4a4an',
-                    text: '123',
+                    key: '2ef3',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '5j1l9',
+                    text: 'Baidu Image',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [
+                      {
+                        offset: 0,
+                        length: 11,
+                        style: 'UNDERLINE'
+                      }
+                    ],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '8tfvt',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: 'b0d26',
+                    text: ' ',
+                    type: 'atomic',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [
+                      {
+                        offset: 0,
+                        length: 1,
+                        key: 1
+                      }
+                    ],
+                    data: {}
+                  },
+                  {
+                    key: '3sphd',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: 'bgu9o',
+                    text: 'Video',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [
+                      {
+                        offset: 0,
+                        length: 5,
+                        style: 'STRIKETHROUGH'
+                      }
+                    ],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '80cjv',
+                    text: ' ',
+                    type: 'atomic',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [
+                      {
+                        offset: 0,
+                        length: 1,
+                        key: 2
+                      }
+                    ],
+                    data: {}
+                  },
+                  {
+                    key: '9h2m4',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '15tjs',
+                    text: '嵌入式媒体',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [
+                      {
+                        offset: 0,
+                        length: 5,
+                        style: 'ITALIC'
+                      }
+                    ],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: 'b5of',
+                    text: ' ',
+                    type: 'atomic',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [
+                      {
+                        offset: 0,
+                        length: 1,
+                        key: 3
+                      }
+                    ],
+                    data: {}
+                  },
+                  {
+                    key: '6gtbv',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: '9imqo',
+                    text: 'Audio',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [
+                      {
+                        offset: 0,
+                        length: 5,
+                        style: 'COLOR-C0392B'
+                      },
+                      {
+                        offset: 0,
+                        length: 5,
+                        style: 'BOLD'
+                      }
+                    ],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: 'f7r3d',
+                    text: ' ',
+                    type: 'atomic',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [
+                      {
+                        offset: 0,
+                        length: 1,
+                        key: 4
+                      }
+                    ],
+                    data: {}
+                  },
+                  {
+                    key: 'cqrso',
+                    text: '',
                     type: 'unstyled',
                     depth: 0,
                     inlineStyleRanges: [],
@@ -1177,8 +1362,44 @@ module.exports = {
                     mutability: 'IMMUTABLE',
                     data: {
                       url: 'https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png',
-                      name: 'Google.png',
+                      name: '未命名项目',
                       type: 'IMAGE'
+                    }
+                  },
+                  '1': {
+                    type: 'IMAGE',
+                    mutability: 'IMMUTABLE',
+                    data: {
+                      url: 'https://www.baidu.com/img/bd_logo1.png',
+                      name: '未命名项目',
+                      type: 'IMAGE'
+                    }
+                  },
+                  '2': {
+                    type: 'VIDEO',
+                    mutability: 'IMMUTABLE',
+                    data: {
+                      url: 'http://techslides.com/demos/sample-videos/small.mp4',
+                      name: '未命名项目',
+                      type: 'VIDEO'
+                    }
+                  },
+                  '3': {
+                    type: 'EMBED',
+                    mutability: 'IMMUTABLE',
+                    data: {
+                      url: '<iframe width="560" height="315" src="https://www.youtube.com/embed/49d95ni5J9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+                      name: '未命名项目',
+                      type: 'EMBED'
+                    }
+                  },
+                  '4': {
+                    type: 'AUDIO',
+                    mutability: 'IMMUTABLE',
+                    data: {
+                      url: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3',
+                      name: '未命名项目',
+                      type: 'AUDIO'
                     }
                   }
                 }
