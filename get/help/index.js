@@ -1138,8 +1138,32 @@ module.exports = {
               richText: {
                 blocks: [
                   {
-                    key: 'dtj4a',
-                    text: '网页版，鼠标放到第一个回答上方，右侧，默认排序，就会看到有按时间排序的选项。',
+                    key: '6pdrs',
+                    text: '',
+                    type: 'unstyled',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [],
+                    data: {}
+                  },
+                  {
+                    key: 'aboi9',
+                    text: ' ',
+                    type: 'atomic',
+                    depth: 0,
+                    inlineStyleRanges: [],
+                    entityRanges: [
+                      {
+                        offset: 0,
+                        length: 1,
+                        key: 0
+                      }
+                    ],
+                    data: {}
+                  },
+                  {
+                    key: '4a4an',
+                    text: '123',
                     type: 'unstyled',
                     depth: 0,
                     inlineStyleRanges: [],
@@ -1147,7 +1171,17 @@ module.exports = {
                     data: {}
                   }
                 ],
-                entityMap: {}
+                entityMap: {
+                  '0': {
+                    type: 'IMAGE',
+                    mutability: 'IMMUTABLE',
+                    data: {
+                      url: 'https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png',
+                      name: 'Google.png',
+                      type: 'IMAGE'
+                    }
+                  }
+                }
               },
               resourceList: []
             }
