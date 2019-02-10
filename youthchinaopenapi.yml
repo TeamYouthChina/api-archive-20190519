@@ -840,6 +840,7 @@ paths:
               required:
                 - name
                 - date_of_birth
+                - password
                 - phonenumber
                 - email
                 - current_city
@@ -849,6 +850,8 @@ paths:
                 name:
                   type: string
                 date_of_birth:
+                  type: string
+                password:
                   type: string
                 phonenumber:
                   type: string
