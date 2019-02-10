@@ -847,21 +847,21 @@ paths:
                 - prefer_industry
                 - prefer_city
               properties:
-                name:
+                username:
                   type: string
                 date_of_birth:
                   type: string
                 password:
                   type: string
-                phonenumber:
+                phone_number:
                   type: string
                 email: 
                   type: string
-                current_city:
-                  type: integer
-                prefer_industry:
-                  type: integer
-                prefer_city:
+                nation:
+                  type: string
+                gender:
+                  type: string
+                age:
                   type: integer
       responses:
         '201':
