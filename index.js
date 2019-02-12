@@ -20,14 +20,16 @@ const getList = [
   '/applicants/1/experiences',
   '/applicants/1/extracurriculars',
   '/applicants/1/projects',
+  '/articles/1',
   '/comments/1',
   '/help',
   '/job/1',
+  '/me',
   '/question/0100',
   '/question/0200',
   '/questions/1',
   '/questions/1/answers',
-  '/users/1/collections'
+  '/users/1/attentions'
 ];
 
 getList.forEach((value) => {

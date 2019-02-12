@@ -1,16 +1,12 @@
 // GET /applicants/1
 
 module.exports = {
+
   "content": {
-    "id": 0,
     "name": "name",
     "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
     "isInJob": true,
-    "currentCompany": {
-      "id": 0,
-      "name": "name",
-      "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
-    },
+    "currentCompanyId": 0,
     "educations": [
       {
         "university": "university",
@@ -78,7 +74,13 @@ module.exports = {
         },
         "note": "note"
       }
-    ]
+    ],
+    "id": 0,
+    "currentCompany": {
+      "id": 0,
+      "name": "name",
+      "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+    }
   },
   "status": {
     "code": 2000,
