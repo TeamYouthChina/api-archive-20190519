@@ -3,86 +3,86 @@
 module.exports = {
   "content": {
     "id": 0,
-    "name": "string",
+    "name": "name",
     "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
     "isInJob": true,
     "currentCompany": {
       "id": 0,
-      "name": "string",
+      "name": "name",
       "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
     },
     "educations": [
       {
-        "university": "string",
-        "major": "string",
-        "degree": "string",
+        "university": "university",
+        "major": "major",
+        "degree": "degree",
         "duration": {
-          "begin": "string",
-          "end": "string"
+          "begin": "begin",
+          "end": "end"
         },
-        "location": "string",
-        "note": "string"
+        "location": "location",
+        "note": "note"
       }
     ],
     "contacts": {
       "emails": [
-        "string"
+        "emails"
       ],
       "phonenumbers": [
-        "string"
+        "phonenumbers"
       ]
     },
     "works": [
       {
-        "employer": "string",
-        "position": "string",
+        "employer": "employer",
+        "position": "position",
         "duration": {
-          "begin": "string",
-          "end": "string"
+          "begin": "begin",
+          "end": "end"
         },
-        "location": "string",
-        "note": "string"
+        "location": "location",
+        "note": "note"
       }
     ],
     "projects": [
       {
-        "name": "string",
-        "role": "string",
+        "name": "name",
+        "role": "role",
         "duration": {
-          "begin": "string",
-          "end": "string"
+          "begin": "begin",
+          "end": "end"
         },
-        "note": "string"
+        "note": "note"
       }
     ],
     "extracurriculars": [
       {
-        "name": "string",
-        "role": "string",
-        "organization": "string",
+        "name": "name",
+        "role": "role",
+        "organization": "organization",
         "duration": {
-          "begin": "string",
-          "end": "string"
+          "begin": "begin",
+          "end": "end"
         },
-        "location": "string",
-        "note": "string"
+        "location": "location",
+        "note": "note"
       }
     ],
     "certifications": [
       {
-        "name": "string",
-        "authority": "string",
+        "name": "name",
+        "authority": "authority",
         "duration": {
-          "begin": "string",
-          "end": "string"
+          "begin": "begin",
+          "end": "end"
         },
-        "note": "string"
+        "note": "note"
       }
     ]
   },
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };
 
