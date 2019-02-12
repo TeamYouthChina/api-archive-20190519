@@ -3,19 +3,19 @@
 module.exports = {
   "content": [
     {
-      "employer": "string",
-      "position": "string",
+      "employer": "employer",
+      "position": "position",
       "duration": {
-        "begin": "string",
-        "end": "string"
+        "begin": "begin",
+        "end": "end"
       },
-      "location": "string",
-      "note": "string"
+      "location": "location",
+      "note": "note"
     }
   ],
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };
 

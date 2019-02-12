@@ -3,20 +3,20 @@
 module.exports = {
   "content": [
     {
-      "university": "string",
-      "major": "string",
-      "degree": "string",
+      "university": "university",
+      "major": "major",
+      "degree": "degree",
       "duration": {
-        "begin": "string",
-        "end": "string"
+        "begin": "begin",
+        "end": "end"
       },
-      "location": "string",
-      "note": "string"
+      "location": "location",
+      "note": "note"
     }
   ],
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };
 

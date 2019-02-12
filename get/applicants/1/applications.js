@@ -6,11 +6,11 @@ module.exports = {
       "id": 0,
       "companyId": 0,
       "positionId": 0,
-      "status": "string"
+      "status": "status"
     }
   ],
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };

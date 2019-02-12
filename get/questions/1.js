@@ -5,19 +5,19 @@ module.exports = {
     "id": 0,
     "creator": {
       "id": 0,
-      "username": "string",
+      "username": "username",
       "email": "user@example.com",
-      "phonenumber": "string",
-      "register_date": "string",
-      "real_name": "string",
+      "phonenumber": "phonenumber",
+      "register_date": "register_date",
+      "real_name": "real_name",
       "gender": "male",
-      "nation": "string",
+      "nation": "nation",
       "avatar_url": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
-      "role": "string",
+      "role": "role",
       "age": 0
     },
-    "title": "string",
-    "body": "string",
+    "title": "title",
+    "body": "body",
     "is_anonymous": true,
     "create_at": 0,
     "answers": [
@@ -25,25 +25,25 @@ module.exports = {
         "id": 0,
         "creator": {
           "id": 0,
-          "username": "string",
+          "username": "username",
           "email": "user@example.com",
-          "phonenumber": "string",
-          "register_date": "string",
-          "real_name": "string",
+          "phonenumber": "phonenumber",
+          "register_date": "register_date",
+          "real_name": "real_name",
           "gender": "male",
-          "nation": "string",
+          "nation": "nation",
           "avatar_url": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
-          "role": "string",
+          "role": "role",
           "age": 0
         },
-        "body": "string",
+        "body": "body",
         "is_anonymous": false,
         "create_at": 0
       }
     ]
   },
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };

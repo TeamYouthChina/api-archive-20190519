@@ -3,15 +3,15 @@
 module.exports = {
   "content": {
     "emails": [
-      "string"
+      "emails"
     ],
     "phonenumbers": [
-      "string"
+      "phonenumbers"
     ]
   },
   "status": {
-    "code": 0,
-    "reason": "string"
+    "code": 2000,
+    "reason": "reason"
   }
 };
 
