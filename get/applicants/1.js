@@ -4,12 +4,12 @@ module.exports = {
   "content": {
     "id": 0,
     "name": "string",
-    "avatarUrl": "string",
+    "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
     "isInJob": true,
     "currentCompany": {
       "id": 0,
       "name": "string",
-      "avatarUrl": "string"
+      "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
     },
     "educations": [
       {

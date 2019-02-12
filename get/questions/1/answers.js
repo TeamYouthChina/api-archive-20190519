@@ -14,7 +14,7 @@ module.exports = {
           "real_name": "string",
           "gender": "male",
           "nation": "string",
-          "avatar_url": "string",
+          "avatar_url": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
           "role": "string",
           "age": 0
         },
@@ -32,7 +32,7 @@ module.exports = {
             "real_name": "string",
             "gender": "male",
             "nation": "string",
-            "avatar_url": "string",
+            "avatar_url": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
             "role": "string",
             "age": 0
           },
