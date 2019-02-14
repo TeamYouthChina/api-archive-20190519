@@ -22,14 +22,18 @@ const getList = [
   '/applicants/1/projects',
   '/articles/1',
   '/comments/1',
+  '/companies/1',
+  '/editorials/1',
   '/help',
   '/job/1',
   '/me',
   '/question/0100',
   '/question/0200',
+  '/questions',
   '/questions/1',
   '/questions/1/answers',
-  '/users/1/attentions'
+  '/users/1/attentions',
+  '/videos/1'
 ];
 
 getList.forEach((value) => {
