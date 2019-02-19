@@ -21,7 +21,6 @@ const getList = [
   '/applicants/1/extracurriculars',
   '/applicants/1/projects',
   '/articles/1',
-  '/comments/1',
   '/companies/1',
   '/editorials/1',
   '/help',
