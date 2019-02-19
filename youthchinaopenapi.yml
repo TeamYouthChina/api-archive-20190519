@@ -680,7 +680,7 @@ paths:
                   content:
                     $ref: '#/components/schemas/Question'
                   status:
-                    $ref: '#/components/schemas/Status'1
+                    $ref: '#/components/schemas/Status'
         '400':
           description: cannot create question due to user's error
     get:
