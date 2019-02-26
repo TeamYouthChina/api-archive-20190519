@@ -35,9 +35,46 @@ const getList = [
   '/videos/1'
 ];
 
+// post
+
+const postList = [
+  
+];
+
+// put
+
+const putList = [
+  
+];
+
+// delete
+
+const deleteList = [
+  
+];
+
+
 getList.forEach((value) => {
   app.get(value, function (req, res) {
     res.json(require(`./get${value}`));
+  });
+});
+
+postList.forEach((value) => {
+  app.post(value, function (req, res) {
+    res.json(require(`./post${value}`));
+  });
+});
+
+putList.forEach((value) => {
+  app.put(value, function (req, res) {
+    res.json(require(`./put${value}`));
+  });
+});
+
+deleteList.forEach((value) => {
+  app.delete(value, function (req, res) {
+    res.json(require(`./delete${value}`));
   });
 });
 
