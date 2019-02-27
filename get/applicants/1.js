@@ -3,10 +3,22 @@
 module.exports = {
 
   "content": {
+    "id": 0,
     "name": "name",
     "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
     "isInJob": true,
-    "currentCompanyId": 0,
+    "skills": [
+      "skills"
+    ],
+    "currentCompany": {
+      "id": 0,
+      "name": "name",
+      "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+      "location": "location",
+      "website": "website",
+      "note": "note",
+      "nation": "nation"
+    },
     "educations": [
       {
         "university": "university",
@@ -30,6 +42,7 @@ module.exports = {
     },
     "works": [
       {
+        "id": 0,
         "employer": "employer",
         "position": "position",
         "duration": {
@@ -42,6 +55,7 @@ module.exports = {
     ],
     "projects": [
       {
+        "id": 0,
         "name": "name",
         "role": "role",
         "duration": {
@@ -53,6 +67,7 @@ module.exports = {
     ],
     "extracurriculars": [
       {
+        "id": 0,
         "name": "name",
         "role": "role",
         "organization": "organization",
@@ -60,7 +75,6 @@ module.exports = {
           "begin": "begin",
           "end": "end"
         },
-        "location": "location",
         "note": "note"
       }
     ],
@@ -74,18 +88,10 @@ module.exports = {
         },
         "note": "note"
       }
-    ],
-    "id": 0,
-    "currentCompany": {
-      "id": 0,
-      "name": "name",
-      "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
-    }
+    ]
   },
   "status": {
     "code": 2000,
     "reason": "reason"
   }
 };
-
-

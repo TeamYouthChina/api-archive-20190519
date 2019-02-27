@@ -16,14 +16,15 @@ module.exports = {
           "note": "note",
           "nation": "nation"
         },
-        "location": 0,
+        "location": "location",
         "type": "full-time",
-        "deadLine": "deadLine"
+        "deadLine": "deadLine",
+        "job_description": "job_description",
+        "job_duty": "job_duty"
       },
       "status": "status"
     }
   ],
-
   "status": {
     "code": 2000,
     "reason": "reason"

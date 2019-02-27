@@ -3,6 +3,7 @@
 module.exports = {
   "content": [
     {
+      "id": 0,
       "employer": "employer",
       "position": "position",
       "duration": {

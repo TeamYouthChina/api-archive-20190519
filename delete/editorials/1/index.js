@@ -1,0 +1,2 @@
+// DELETE /editorials/1
+ 
