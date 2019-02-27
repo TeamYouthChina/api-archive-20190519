@@ -6,16 +6,18 @@ module.exports = {
       {
         "title": "title",
         "body": {
-          "richtext": {},
+          "braftEditorRaw": {},
+          "previewText": {},
           "resourceList": [
             "resourceList"
           ]
         },
         "is_anonymous": true,
+        "rela_type": 0,
+        "rela_id": 0,
         "id": 0,
         "create_at": "create_at",
         "modified_at": "modified_at",
-        "company_id": "company_id",
         "creator": {
           "id": 0,
           "username": "username",
@@ -32,7 +34,8 @@ module.exports = {
         "answers": [
           {
             "body": {
-              "richtext": {},
+              "braftEditorRaw": {},
+              "previewText": {},
               "resourceList": [
                 "resourceList"
               ]

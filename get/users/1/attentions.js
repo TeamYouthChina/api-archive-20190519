@@ -8,7 +8,11 @@ module.exports = {
         "company": {
           "id": 0,
           "name": "name",
-          "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+          "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+          "location": "location",
+          "website": "website",
+          "note": "note",
+          "nation": "nation"
         }
       }
     ],
@@ -21,11 +25,17 @@ module.exports = {
           "organization": {
             "id": 0,
             "name": "name",
-            "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+            "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "location": "location",
+            "website": "website",
+            "note": "note",
+            "nation": "nation"
           },
-          "location": 0,
+          "location": "location",
           "type": "full-time",
-          "deadLine": "deadLine"
+          "deadLine": "deadLine",
+          "job_description": "job_description",
+          "job_duty": "job_duty"
         }
       }
     ],
@@ -35,16 +45,18 @@ module.exports = {
         "questions": {
           "title": "title",
           "body": {
-            "richtext": {},
+            "braftEditorRaw": {},
+            "previewText": {},
             "resourceList": [
               "resourceList"
             ]
           },
           "is_anonymous": true,
+          "rela_type": 0,
+          "rela_id": 0,
           "id": 0,
           "create_at": "create_at",
           "modified_at": "modified_at",
-          "company_id": "company_id",
           "creator": {
             "id": 0,
             "username": "username",
@@ -66,7 +78,8 @@ module.exports = {
         "id": 0,
         "answers": {
           "body": {
-            "richtext": {},
+            "braftEditorRaw": {},
+            "previewText": {},
             "resourceList": [
               "resourceList"
             ]

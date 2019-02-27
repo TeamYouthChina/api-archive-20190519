@@ -3,6 +3,7 @@
 module.exports = {
   "content": [
     {
+      "id": 0,
       "name": "name",
       "role": "role",
       "organization": "organization",
@@ -10,7 +11,6 @@ module.exports = {
         "begin": "begin",
         "end": "end"
       },
-      "location": "location",
       "note": "note"
     }
   ],

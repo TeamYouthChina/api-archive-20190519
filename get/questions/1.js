@@ -2,7 +2,20 @@
 
 module.exports = {
   "content": {
+    "title": "title",
+    "body": {
+      "braftEditorRaw": {},
+      "previewText": {},
+      "resourceList": [
+        "resourceList"
+      ]
+    },
+    "is_anonymous": true,
+    "rela_type": 0,
+    "rela_id": 0,
     "id": 0,
+    "create_at": "create_at",
+    "modified_at": "modified_at",
     "creator": {
       "id": 0,
       "username": "username",
@@ -16,12 +29,16 @@ module.exports = {
       "role": "role",
       "age": 0
     },
-    "title": "title",
-    "body": "body",
-    "is_anonymous": true,
-    "create_at": 0,
     "answers": [
       {
+        "body": {
+          "braftEditorRaw": {},
+          "previewText": {},
+          "resourceList": [
+            "resourceList"
+          ]
+        },
+        "is_anonymous": false,
         "id": 0,
         "creator": {
           "id": 0,
@@ -36,9 +53,9 @@ module.exports = {
           "role": "role",
           "age": 0
         },
-        "body": "body",
-        "is_anonymous": false,
-        "create_at": 0
+        "modified_at": "modified_at",
+        "create_at": "create_at",
+        "company_id": "company_id"
       }
     ]
   },
