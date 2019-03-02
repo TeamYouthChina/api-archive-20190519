@@ -3,10 +3,10 @@
 module.exports = {
   "content": {
     "emails": [
-      "emails"
+      "test@163.com"
     ],
     "phonenumbers": [
-      "phonenumbers"
+      "18463722634"
     ]
   },
   "status": {

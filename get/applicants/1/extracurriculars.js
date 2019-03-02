@@ -3,13 +3,13 @@
 module.exports = {
   "content": [
     {
-      "id": 0,
-      "name": "name",
-      "role": "role",
-      "organization": "organization",
+      "id": 1,
+      "name": "volunteer",
+      "role": "worker",
+      "organization": "gwu",
       "duration": {
-        "begin": "begin",
-        "end": "end"
+        "begin": "2018-10-11T00:00:00.000+0000",
+        "end": "2018-10-11T00:00:00.000+0000"
       },
       "note": "note"
     }

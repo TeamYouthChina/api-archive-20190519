@@ -3,88 +3,88 @@
 module.exports = {
 
   "content": {
-    "id": 0,
+    "id": 1,
     "name": "name",
     "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
     "isInJob": true,
     "skills": [
-      "skills"
+      "网站开发"
     ],
     "currentCompany": {
-      "id": 0,
-      "name": "name",
+      "id": 1,
+      "name": "百度",
       "avatarUrl": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
-      "location": "location",
-      "website": "website",
+      "location": "中国",
+      "website": "test@163.com",
       "note": "note",
-      "nation": "nation"
+      "nation": "China"
     },
     "educations": [
       {
-        "university": "university",
-        "major": "major",
-        "degree": "degree",
+        "university": "gwu",
+        "major": "1",
+        "degree": "master",
         "duration": {
-          "begin": "begin",
-          "end": "end"
+          "begin": "2018-10-11T00:00:00.000+0000",
+          "end": "2020-05-14T00:00:00.000+0000"
         },
-        "location": "location",
+        "location": "中国江苏",
         "note": "note"
       }
     ],
     "contacts": {
       "emails": [
-        "emails"
+        "test@126.com"
       ],
       "phonenumbers": [
-        "phonenumbers"
+        "18463722634"
       ]
     },
     "works": [
       {
-        "id": 0,
-        "employer": "employer",
-        "position": "position",
+        "id": 1,
+        "employer": "Facebook",
+        "position": "SDE",
         "duration": {
-          "begin": "begin",
-          "end": "end"
+          "begin": "2017-09-11T00:00:00.000+0000",
+          "end": "2018-10-11T00:00:00.000+0000"
         },
-        "location": "location",
+        "location": "中国江苏",
         "note": "note"
       }
     ],
     "projects": [
       {
-        "id": 0,
-        "name": "name",
-        "role": "role",
+        "id": 1,
+        "name": "web develop",
+        "role": "backend",
         "duration": {
-          "begin": "begin",
-          "end": "end"
+          "begin": "2018-09-11T00:00:00.000+0000",
+          "end": "2018-10-11T00:00:00.000+0000"
         },
         "note": "note"
       }
     ],
     "extracurriculars": [
       {
-        "id": 0,
-        "name": "name",
-        "role": "role",
-        "organization": "organization",
+        "id": 1,
+        "name": "volunteer",
+        "role": "worker",
+        "organization": "gwu",
         "duration": {
-          "begin": "begin",
-          "end": "end"
+          "begin": "2018-10-11T00:00:00.000+0000",
+          "end": "2018-10-12T00:00:00.000+0000"
         },
         "note": "note"
       }
     ],
     "certifications": [
       {
-        "name": "name",
-        "authority": "authority",
+        "name": "Java skill",
+        "authority": "CSSA",
         "duration": {
-          "begin": "begin",
-          "end": "end"
+          "begin": "2016-10-01T00:00:00.000+0000",
+          "end": "2018-10-11T00:00:00.000+0000"
         },
         "note": "note"
       }
